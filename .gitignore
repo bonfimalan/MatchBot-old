@@ -2,3 +2,4 @@ config.json
 lol/lolconfig.json
 node_modules
 TODO.txt
+.gitignore
